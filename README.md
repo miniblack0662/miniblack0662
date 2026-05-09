@@ -1,6 +1,7 @@
 # Hello, I'm mini
 
 I host a Minecraft server - Blackpvp Network
+
 You can join it with `minination.top`
 
 ## Skills:
